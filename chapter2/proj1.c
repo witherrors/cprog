@@ -4,7 +4,11 @@
 //functions
 int main(void) {
     //statements
-    
-    printf("To C, or not to C: that is the question. \n");
+    printf("        *\n");
+    printf("       *\n");
+    printf("      *\n");
+    printf("*    *\n");
+    printf(" *  *\n");
+    printf("  *\n");
     return 0;
 }
